@@ -82,3 +82,6 @@ Finally, when all the three predictions prove to be correct, we multiply their o
 - [Luca Ballistri](https://www.linkedin.com/in/lucaballistri/)
 - [Enrico Grandi](https://www.linkedin.com/in/enrico-grandi/)
 - [Rebecca Galassi](https://www.linkedin.com/in/rebecca-galassi-a1b65918b/)
+
+## License 
+[MIT](https://choosealicense.com/licenses/mit/)
