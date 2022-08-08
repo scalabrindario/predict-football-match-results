@@ -75,3 +75,10 @@ Once we rank them, we take the bottom 3, the ones with the smallest CBI, in orde
 Finally, when all the three predictions prove to be correct, we multiply their odds and multiply it by the amount of money we bet on them. If we bet € 1 per week, we will have a total expense of € 33. On the other hand, the winning would be € 70, so the net profit would be € 37.
 
 <p align="center"><img src="https://drive.google.com/uc?id=12rSSjugYXgJGJxhYqBOxA55MeBgZgpAf" width="600"/></p>
+
+## Collaborators
+- [Dario Scalabrin](https://www.linkedin.com/in/scalabrindario/)
+- [Andrea Parisi](https://www.linkedin.com/in/andrea-parisi-17950b197)
+- [Luca Ballistri](https://www.linkedin.com/in/lucaballistri/)
+- [Enrico Grandi](https://www.linkedin.com/in/enrico-grandi/)
+- [Rebecca Galassi](https://www.linkedin.com/in/rebecca-galassi-a1b65918b/)
